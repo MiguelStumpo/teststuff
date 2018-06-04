@@ -95,4 +95,6 @@ Estes farão um conjunto de testes, definidos pelos tipos.
 
 - Os testes atualmente não salvam tempo de desempenho ou erros que não interrompem o fluxo. Atualmente são apenas úteis para notar problemas que interrompem o fluxo.
 
+##¯\_(ツ)_/¯
+
  
